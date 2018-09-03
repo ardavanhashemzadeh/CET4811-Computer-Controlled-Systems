@@ -1,0 +1,67 @@
+CET_4811 – Computer Controlled Systems II 
+
+Preliminary project proposal (Part A) for a computer controlled electro-mechanical device. 
+
+
+
+Proposal (Part A) due date: 3rd class session
+
+
+Project Name:	______________________________________
+
+
+Group Members: 	1.____________________________________
+
+
+	2.____________________________________
+
+
+	3.____________________________________
+
+
+	   ____________________________________
+
+
+This preliminary project idea is to be submitted by each group of not more than three students.  
+
+
+Write a one paragraph description and draw a simple sketch (block diagram), on the other side of this sheet, of your idea of a computer controlled device that you would like to build for the capstone project. The mechanical device must be a simplified model of a real world device that you can build from mechanical components obtained from LEGO, K’NEX, or VEX kits, or a disassembled toy. You can also build your device from raw materials such as wood or plastic. 
+
+
+
+Use of a commercial kit to assemble and build the entire project is NOT allowed.
+
+
+The main requirements of the project are that the device must:
+
+be controlled by a high level language (C/C++) program,
+
+make use of an embedded micro-controller,
+
+incorporate at-least two simple input sensors (analog and / or digital sensors)
+
+Examples: switch, potentiometer, temperature sensor, light sensor (photo-resistor)
+
+incorporate one advanced input sensor 
+
+Examples: IR receiver, IR or Ultrasonic distance sensor, Tilt/Gyro sensor
+
+incorporate at-least one motor (DC, servo or stepper motor) as output actuator,
+
+incorporate at-least one other output device (e.g. LEDs/LCD or Speaker)
+
+connect the device to a computer network for network data transmission or control, with the help of wireless (Bluetooth, Zig-Bee, Wi-Fi) or wired (USB, Ethernet) technology.
+
+
+Indicate the location of sensors and motors in the sketch.
+
+
+Carefully consider the time needed to buy or obtain parts and kits and to put the device together. The mechanical sub-system of the device must be in reasonable working order by mid semester.
+
+
+To come up with an idea, look around your house, in public places and on the road, for devices, appliances and structures that are controlled by motors.
+
+
+Sketch or block diagram of the computer controlled device:
+
+Brief description of operation:
